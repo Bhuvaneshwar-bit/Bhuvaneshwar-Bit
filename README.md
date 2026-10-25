@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Full-Stack+Dev+%7C+MERN+%2B+AWS;Let's+build+something+great+🚀)](https://git.io/typing-svg)
+
+</div>
+
 # Hey there 👋 I'm M Bhuvaneshwar
 
 🎓 Final Year IT Student &nbsp;|&nbsp; 🔥 Full-Stack Developer &nbsp;|&nbsp; ☁️ MERN + AWS Cloud-Native \
