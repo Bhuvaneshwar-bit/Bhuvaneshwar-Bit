@@ -11,8 +11,7 @@
 🚀 Shipped on Product Hunt @ Nebulaa.ai &nbsp;|&nbsp; Software Developer Intern \
 👨‍💻 Team Lead — Led 3 Engineers from Architecture → Production \
 💼 2 Freelance Products Live — 50+ Daily Bookings Powered by My Code \
-⚡ Building Real-Time Systems with Socket.IO, WebRTC & AWS \
-☕ Fluent in Code, Cloud, & Coffee
+⚡ Building Real-Time Systems with Socket.IO, WebRTC & AWS
 
 ---
 
