@@ -1,18 +1,12 @@
-<div align="center">
-
 # Hey there 👋 I'm M Bhuvaneshwar
 
-</div>
-
-<p align="center">
-🎓 Final Year IT Student &nbsp;|&nbsp; 🔥 Full-Stack Developer &nbsp;|&nbsp; ☁️ MERN + AWS Cloud-Native <br/>
-🏆 4× Hackathon Podium Finisher &nbsp;(2 Gold, 2 Silver) <br/>
-🚀 Shipped on Product Hunt @ Nebulaa.ai &nbsp;|&nbsp; Software Developer Intern <br/>
-👨‍💻 Team Lead — Led 3 Engineers from Architecture → Production <br/>
-💼 2 Freelance Products Live — 50+ Daily Bookings Powered by My Code <br/>
-⚡ Building Real-Time Systems with Socket.IO, WebRTC &amp; AWS <br/>
-☕ Fluent in Code, Cloud, &amp; Coffee
-</p>
+🎓 Final Year IT Student &nbsp;|&nbsp; 🔥 Full-Stack Developer &nbsp;|&nbsp; ☁️ MERN + AWS Cloud-Native \
+🏆 4× Hackathon Podium Finisher (2 Gold, 2 Silver) \
+🚀 Shipped on Product Hunt @ Nebulaa.ai &nbsp;|&nbsp; Software Developer Intern \
+👨‍💻 Team Lead — Led 3 Engineers from Architecture → Production \
+💼 2 Freelance Products Live — 50+ Daily Bookings Powered by My Code \
+⚡ Building Real-Time Systems with Socket.IO, WebRTC & AWS \
+☕ Fluent in Code, Cloud, & Coffee
 
 ---
 
