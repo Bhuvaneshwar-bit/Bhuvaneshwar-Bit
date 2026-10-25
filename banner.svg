@@ -145,7 +145,7 @@
   </g>
 
   <!-- Main neon text -->
-  <text x="450" y="50" text-anchor="middle"
+  <text x="450" y="38" text-anchor="middle"
     font-family="'Courier New', Courier, monospace"
     font-size="26" font-weight="900" letter-spacing="3"
     fill="#00ffff" filter="url(#neon)">
@@ -154,10 +154,10 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="450" y="72" text-anchor="middle"
+  <text x="450" y="60" text-anchor="middle"
     font-family="'Courier New', Courier, monospace"
     font-size="11" letter-spacing="2.5"
-    fill="#ff5580" filter="url(#glow2)">
+    fill="#ffffff" filter="url(#glow2)">
     FULL-STACK DEV  ·  MERN + AWS  ·  LET'S BUILD
     <animate attributeName="opacity" values="0;1" dur="1.5s" begin="0.5s" fill="freeze"/>
   </text>
