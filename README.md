@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=140&section=header&text=Welcome%20to%20my%20GitHub!%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Full-Stack%20Dev%20%7C%20MERN%20%2B%20AWS%20%7C%20Let%27s%20build%20%F0%9F%9A%80&descSize=16&descAlignY=78&descColor=ffffff" width="100%" />
+<img src="./banner.svg" width="100%" />
 
 </div>
 
