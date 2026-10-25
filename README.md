@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Full-Stack+Dev+%7C+MERN+%2B+AWS;Let's+build+something+great+🚀)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=140&section=header&text=Welcome%20to%20my%20GitHub!%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Full-Stack%20Dev%20%7C%20MERN%20%2B%20AWS%20%7C%20Let%27s%20build%20%F0%9F%9A%80&descSize=16&descAlignY=78&descColor=ffffff" width="100%" />
 
 </div>
 
